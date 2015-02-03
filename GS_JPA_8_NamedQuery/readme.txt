@@ -1,0 +1,1 @@
+http://www.objectdb.com/java/jpa/query/named
